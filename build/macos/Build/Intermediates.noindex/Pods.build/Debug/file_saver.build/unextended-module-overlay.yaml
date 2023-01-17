@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/WILLIAM/Documents/DEV/translator/build/macos/Build/Products/Debug/file_saver/file_saver.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/WILLIAM/Documents/DEV/translator/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_saver.build/unextended-module.modulemap",
+    }]
+  }]
+}

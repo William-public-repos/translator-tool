@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a183991b2239774c615928442911d1f3010d87fc8cdc62d00422a066abd2588b"
+build_start_time: [1673744684, 173823833]
+build_end_time: [1673744699, 351170063]
+inputs:
+  "/Users/WILLIAM/.pub-cache/hosted/pub.dartlang.org/file_saver-0.1.1/macos/Classes/Dialog.swift": [1673743277, 717074871]
+  "/Users/WILLIAM/.pub-cache/hosted/pub.dartlang.org/file_saver-0.1.1/macos/Classes/FileSaverPlugin.swift": [1673743277, 716807603]
